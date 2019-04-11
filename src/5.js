@@ -5,6 +5,10 @@ console.log(7 / 0);
 
 // Js takes the string and divides it naturally.
 console.log("20" / 2);
+console.log('3' - 2);
+
+// Concatenando/ o sinal de mais faz sentido na concatenação. por isso não soma, concatena.
+console.log('3' + 2) // string ganha!
 
 // Error
 console.log("No!" * 2);
