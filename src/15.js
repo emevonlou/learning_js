@@ -1,6 +1,6 @@
 // Object
 
-// How to create objects in Javascript literally
+// How to create objects literally in Javascript 
 // the key pair is a literal way for you to write an object
 const prod1 ={};
 

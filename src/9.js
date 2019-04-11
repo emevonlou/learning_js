@@ -33,6 +33,6 @@ console.log(soma(1,1));
 console.log(sub(2,1));
 console.log(multi(2,2));
 
-const ola = () => "Ola";
+const Hi = () => "Hi";
 
-console.log(ola());
+console.log(Hi());
