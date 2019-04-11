@@ -20,7 +20,7 @@ console.log(school.substring(0,3));
 console.log('school'+ school + '!');
 console.log('school '.concat(school).concat("!"));
 
-// Replace function
+// Replace function:
 console.log(school.replace(3, 'e'));
 
 // with regular expressions:
