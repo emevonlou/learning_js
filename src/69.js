@@ -1,4 +1,4 @@
-// Break/Continue (cuidado ao desviar o fluxo)
+// Break/Continue (Beware of diverting the flow)
 
 const num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 

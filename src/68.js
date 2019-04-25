@@ -1,6 +1,6 @@
 // For/In
 
-// O For-in vai te dar o indice dos elementos
+// For-in will give you the index of the elements
 const notes = [6.7, 7.4, 9.8, 8.1, 7.7];
 
 for(let i in notes) {

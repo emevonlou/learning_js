@@ -1,4 +1,4 @@
-// freecodecamp
+// freeCodeCamp Reverse String
 
 function reverseString(str) {
   let novaString = '';
