@@ -1,4 +1,4 @@
-// 'this' and the function 'bind'
+// 'this' and 'bind'
 
 const person = {
     salutation : 'Good Morning!',
@@ -16,6 +16,7 @@ speak(); // Undefined(conflict between paradigms: functional and OO)
 const speakPerson = person.speak.bind(person);
 
 speakPerson();
+
 
 
 
