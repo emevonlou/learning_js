@@ -1,4 +1,4 @@
-// Regular Expressions: Match Characters that Occur One or More Times (Freecodecamp)
+// Regular Expressions: Match Characters that Occur One or More Times (FreeCodeCamp)
 
 
 let difficultSpelling = "Mississippi";

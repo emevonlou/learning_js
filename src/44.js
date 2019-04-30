@@ -1,4 +1,4 @@
-// Regex: Match All Letters and Numbers(Freecodecamp)
+// Regex: Match All Letters and Numbers(FreeCodeCamp)
 
 let quoteSample = "The five boxing wizards jump quickly.";
 let alphabetRegexV2 = /\w/gi; 

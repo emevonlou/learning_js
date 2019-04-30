@@ -1,4 +1,4 @@
-// Match Characters that Occur Zero or More Times(freecodecamp)
+// Match Characters that Occur Zero or More Times(FreeCodeCamp)
 
 
 let chewieQuote = "Aaaaaaaaaaaaaaaarrrgh!";

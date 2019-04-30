@@ -1,4 +1,4 @@
-// Ignore Case While Matching(freecodecamp)
+// Ignore Case While Matching(FreeCodeCamp)
 
 let myString = "freeCodeCamp";
 let fccRegex = /freecodecamp/i; // Change this line

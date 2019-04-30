@@ -1,4 +1,4 @@
-// Regex: Match Everything But Letters and Numbers(Freecodecamp)
+// Regex: Match Everything But Letters and Numbers(FreeCodeCamp)
 
 
 let quoteSample = "The five boxing wizards jump quickly.";

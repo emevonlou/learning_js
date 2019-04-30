@@ -1,4 +1,4 @@
-// Regex: Find Characters with Lazy Matching(Freecodecamp)
+// Regex: Find Characters with Lazy Matching(FreeCodeCamp)
 
 
 let text = "<h1>Winter is coming</h1>";

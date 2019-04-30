@@ -1,4 +1,4 @@
-// Regular Expressions: Extract Matches(freecodecamp)
+// Regular Expressions: Extract Matches(FreeCodeCamp)
 
 let extractStr = "Extract the word 'coding' from this string.";
 let codingRegex = /coding/; // Change this line
