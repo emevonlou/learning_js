@@ -24,7 +24,7 @@ console.log(p);
 p.splice(3, 1); // O Massa sai!
 console.log(p); 
 
-const p1 = p.slice(2); // retorna um novo array gerado, no caso a partir do indice 2
+const p1 = p.slice(2); // retorna um novo array gerado, no caso, a partir do indice 2
 console.log(p1);
 
 const p2 = p.slice(1, 4);
