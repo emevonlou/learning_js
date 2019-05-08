@@ -5,7 +5,7 @@ const students = [
     {name: 'Maria', note: 9.5, bonus: true},
     {name: 'Louis', note: 9.8, bonus: false},
     {name: 'Ana', note: 8.7, bonus: true}
-]
+];
 
 console.log(students.map(a => a.note));
 
