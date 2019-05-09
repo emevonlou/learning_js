@@ -5,14 +5,14 @@ const sandwich = {
     cheese: 'Cheddar',
 
     prepare: function() {
-        return `I want a sandwich with ${this.bread} bread and ${this.cheese}`
+        return `I want a sandwich with ${this.bread} bread and ${this.cheese}`;
     },
 
     make: function(){
         let that = this;
-        window.setTimeout(function(){
-            console.log(that.prepare());
-        }, 500)
+        window.setTimeout(() => {
+            console.log(this.prepare());
+        }, 500);
     }
 };
 
