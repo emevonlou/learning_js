@@ -19,3 +19,5 @@ const sum = (total1,current) => total1 + current;
 const total2 = students.map(getNote).reduce(sum);
 
 console.log(total2 / students.length);
+
+
