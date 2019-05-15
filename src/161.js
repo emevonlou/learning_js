@@ -1,4 +1,4 @@
-// Herança prototipal 
+// prototypal inheritance 
 
 
 // Class

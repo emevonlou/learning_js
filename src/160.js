@@ -1,4 +1,4 @@
-// promises multiplas 2
+// multiple promises 
 
 const currency = new Promise((resolve, reject) => {
     setTimeout(() => {

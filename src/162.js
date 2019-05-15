@@ -1,5 +1,4 @@
-// Herança prototipal usando classes 
-
+// prototipal inheritance with classes
 
 class Animal {
     constructor(kind, sound) {
