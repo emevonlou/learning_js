@@ -16,7 +16,7 @@ for(letter of txt) {
     if(letter === 'a')break;
 }
 
-var life = ['friend','kisses','hugs', 'lovely','true', 'lier'];
+var life = ['friend','kisses','hugs','lovely','true', 'lier'];
 var it = life[Symbol.iterator]();
 
 for(love of life) {
