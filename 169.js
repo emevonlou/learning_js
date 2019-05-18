@@ -17,11 +17,11 @@ console.log(mySet.has('Joaquim'));
 
 console.log(mySet[1]); // undefined
 
-// Set é baseado no iterator
+// Set is based on iterator
 console.log(mySet.values());
 
 let hi = mySet.values();
 
-for(name of hi) {
+for (name of hi) {
     console.log(name);
 }

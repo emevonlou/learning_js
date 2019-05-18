@@ -11,7 +11,7 @@ let proxy = new proxy(obj(obj, {
         return target[name];
     },
 
-    set(target,name,value) {
+    set(target, name, value) {
         console.log('Someone is changing the name!');
         target[name] = value.toUpperCase();
     }
