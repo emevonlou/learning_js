@@ -1,0 +1,22 @@
+{
+  "name": "learning_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "173.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emevonlou/learning_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emevonlou/learning_js/issues"
+  },
+  "homepage": "https://github.com/emevonlou/learning_js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
