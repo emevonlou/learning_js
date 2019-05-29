@@ -16,6 +16,20 @@ function chunk(array, size) {
     return chunked;
 }
 
+// solution 2
+
+function chunk2(array2, size2) {
+    const chunked2 = [];
+    let index = 0;
+
+    while(index < array2.length) {
+        chunked2.push(array2.slice(index, index + size2));
+        index += size2;
+    }
+
+    return chunked2;
+}
+
 
 
 
