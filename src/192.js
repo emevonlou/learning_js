@@ -9,3 +9,7 @@ function capitalize(str) {
 
     return words.join(' ');
 }
+
+let resultado = capitalize("que tal?");
+
+console.log(resultado);
