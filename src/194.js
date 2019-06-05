@@ -21,4 +21,4 @@ function steps(x) {
 
 }
 
-console.log(steps(30));
+steps(30);
