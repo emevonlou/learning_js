@@ -46,4 +46,6 @@
      return resultado;
  }
 
+ console.log(matrix(4));
+
  
