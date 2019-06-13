@@ -10,6 +10,11 @@ class Queue {
     }
 
     remove() {
-        this.data.pop();
+        return this.data.pop();
+    }
+
+    Peek() {
+        return this.data[this.data.length - 1];
     }
 }
+
