@@ -1,3 +1,1 @@
 # learning_js
-
-...
